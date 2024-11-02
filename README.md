@@ -75,3 +75,7 @@ This analysis uses specific KPIs to evaluate ad performance across various socia
 ---
 
 These KPIs and questions are central to evaluating campaign performance across platforms, providing actionable insights for optimizing future ad strategies.
+
+##Detailed Analysis Report 
+My detailed analysis report is available [here](https://github.com/ahsanfarooq1/Ramadan_compaign_in_excel/blob/main/Excel%20portfolio%20by%20Ahsan.pdf)
+
