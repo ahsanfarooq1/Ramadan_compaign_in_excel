@@ -116,3 +116,7 @@ My detailed analysis report is available [here](https://github.com/ahsanfarooq1/
 These conclusions and recommendations offer a data-driven approach to optimize future ad strategies, emphasizing platform efficiency, demographic targeting, and creative improvements for enhanced engagement and ROI.
 
 
+## PDF Page 1
+![PDF Page 1](.https://github.com/ahsanfarooq1/Ramadan_compaign_in_excel/blob/main/Excel%20portfolio%20by%20Ahsan.pdf)
+
+
