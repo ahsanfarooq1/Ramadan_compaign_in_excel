@@ -76,6 +76,43 @@ This analysis uses specific KPIs to evaluate ad performance across various socia
 
 These KPIs and questions are central to evaluating campaign performance across platforms, providing actionable insights for optimizing future ad strategies.
 
-##Detailed Analysis Report 
+## Detailed Analysis Report 
+
 My detailed analysis report is available [here](https://github.com/ahsanfarooq1/Ramadan_compaign_in_excel/blob/main/Excel%20portfolio%20by%20Ahsan.pdf)
+
+## Conclusions
+
+1. **Campaign Performance Across Platforms**  
+   Analysis shows that campaign performance varied significantly across platforms. Snapchat emerged as the most cost-effective platform, with the lowest Cost Per Engagement (CPE) at $25.03, making it highly efficient for budget allocation. TikTok also performed well, with a CPE of $35.23, while Meta (Facebook & Instagram) had the highest CPE at $120.78, indicating it required more budget to achieve similar levels of engagement.
+
+2. **High Variation in Click-Through Rate (CTR)**  
+   CTR varied widely across platforms and demographics. Campaigns targeting Millennials, particularly on TikTok, achieved significantly higher CTRs compared to campaigns targeting Boomers. This suggests that younger audiences, especially Millennials, are more responsive to digital advertising, with TikTok being particularly effective in engaging this demographic.
+
+3. **Significant Number of Low Engagement Campaigns**  
+   On Snapchat, 72% of campaigns had low engagement levels, registering fewer than 1,000 clicks. This high number of low-performing campaigns indicates a need for better-targeted ads, creative optimization, and possibly strategic improvements in ad placement to enhance campaign outcomes.
+
+4. **Top-Performing Campaigns**  
+   Specific campaigns, such as `CNMCDRamadanCHTiktokMKAETGAwareness`, demonstrated high CTR, particularly on TikTok in the UAE market. The campaign’s success underscores the importance of targeted content, engaging visuals, and clear calls to action. This example highlights how well-aligned creative content with market needs can drive high engagement.
+
+## Recommendations
+
+1. **Allocate More Budget to Snapchat**  
+   Given Snapchat’s low CPE, increasing budget allocation for this platform is recommended for future campaigns. By focusing on Snapchat and improving targeting strategies, engagement levels could increase, maximizing return on investment (ROI) and reducing low-performing campaigns.
+
+2. **Focus on Millennials for Higher Conversion Rates**  
+   With Millennials showing the highest conversion rates across platforms, especially on Meta and TikTok, future campaigns should prioritize this demographic. Tailoring content, messaging, and ad formats to resonate with younger audiences, particularly on TikTok, could enhance engagement and conversions.
+
+3. **Re-evaluate Low-Engagement Campaigns on Snapchat**  
+   To address low engagement, especially on Snapchat, a re-evaluation of targeting strategies is essential. Experimenting with different audience segments, refining ad messaging, and optimizing landing pages can help boost engagement rates and improve campaign performance.
+
+4. **Creative Optimization for Meta Ads**  
+   Meta (Facebook & Instagram) had the highest CPE but remains crucial due to its wide reach and targeting options. Focusing on creative optimization can lower the cost per engagement. Testing different ad formats (e.g., video vs. image), messaging, and creative elements can improve CTR and reduce costs.
+
+5. **Monitor Competitor Activities for Differentiation**  
+   Observing competitor activities closely can inform strategy adjustments. By positioning the brand effectively and ensuring differentiation, engagement and conversion rates could improve, particularly in competitive platforms like Meta.
+
+---
+
+These conclusions and recommendations offer a data-driven approach to optimize future ad strategies, emphasizing platform efficiency, demographic targeting, and creative improvements for enhanced engagement and ROI.
+
 
